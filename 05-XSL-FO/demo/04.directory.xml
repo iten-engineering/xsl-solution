@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<directory>
+  <person anrede="Frau" alter="25">
+    <vorname>Erika</vorname>
+    <nachname>Wanner</nachname>
+  </person>
+  <person anrede="Frau" alter="31">
+    <vorname>Daniela</vorname>
+    <nachname>Frischknecht</nachname>
+  </person>
+  <person anrede="Herr" alter="33">
+    <vorname>Albert</vorname>
+    <nachname>Frischknecht</nachname>
+  </person>
+  <person anrede="Herr" alter="49">
+    <vorname>Klaus</vorname>
+    <nachname>Leuenberger</nachname>
+  </person>
+</directory>

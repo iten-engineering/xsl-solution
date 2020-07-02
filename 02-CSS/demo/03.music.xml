@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="03.music.css"?>
+<music>
+   <album>
+      <interpreter>Moby</interpreter>
+      <title>Play</title>
+      <song>Honey</song>
+      <song>Find my baby</song>
+      <song>Bodyrock</song>
+   </album>
+   <album>
+      <interpreter>Mesh</interpreter>
+      <title>Fragmente</title>
+      <song>Trust you</song>
+      <song>Someone to believe in</song>
+      <song>In the light of day</song>
+   </album>
+</music>

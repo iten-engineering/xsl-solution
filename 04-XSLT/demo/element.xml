@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="element.xsl" ?>
+<test>
+	<produkt>
+		<name>Schaukelstuhl</name>
+		<preis>99,-</preis>
+	</produkt>
+	<produkt>
+		<name>Kaffeemaschine</name>
+		<preis>49,95</preis>
+	</produkt>
+	<produkt>
+		<name>Schraubenzieher</name>
+		<preis>4,95</preis>
+	</produkt>
+	<produkt>
+		<name>Sofakissen</name>
+		<preis>29,95</preis>
+	</produkt>
+</test>

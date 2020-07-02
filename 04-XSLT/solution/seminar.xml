@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seminar>
+	<ziel>Einführung in XML</ziel>
+	<datum von="01.04.2007" bis="03.04.2007" />
+	<zeitplan>
+		<lektion von="09:00" bis="12:30">
+			<thema>Überblick</thema>
+			<thema>eXtensible Markup Language</thema>
+			<thema>Document Type Definition</thema>
+		</lektion>
+		<pause von="12:30" bis="13:30">Mittagessen</pause>
+		<lektion von="13:30" bis="17:00">
+			<thema>XML Schema</thema>
+			<thema>Übungen</thema>
+		</lektion>
+	</zeitplan>
+	<kursleiter>
+		<person anrede="Herr">
+		    <vorname>Peter</vorname>
+    		<nachname>Meier</nachname>
+		</person>
+	</kursleiter>
+	<teilnehmer>
+		<person anrede="Herr">
+		    <vorname>Eric</vorname>
+    		<nachname>Balmer</nachname>
+		</person>
+		<person anrede="Frau">
+		    <vorname>Linda</vorname>
+    		<nachname>Mischler</nachname>
+		</person>
+		<person anrede="Frau">
+		    <vorname>Brigitte</vorname>
+    		<nachname>Bolli</nachname>
+		</person>
+		<person anrede="Herr">
+		    <vorname>Alban</vorname>
+    		<nachname>Fischer</nachname>
+		</person>
+	</teilnehmer>
+</seminar>
+

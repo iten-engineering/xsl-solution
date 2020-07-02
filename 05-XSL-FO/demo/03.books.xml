@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book>
+		<title>Die Tore der Welt</title>
+		<author>Ken Follett</author>
+		<publisher>Lübbe</publisher>
+		<year>2008</year>	
+		<isbn>3-7857-2316-4</isbn>	
+	</book>
+	<book>
+		<title>Wir fliegen</title>
+		<author>Peter Stamm</author>
+		<publisher>S. Fischer Verlag</publisher>
+		<year>2008</year>		
+		<isbn>3-10-075128-0</isbn>	
+	</book>
+	<book>
+		<title>Zehn Wahrheiten</title>
+		<author>Miranda July</author>
+		<publisher>Diogenes</publisher>
+		<year>2008</year>		
+		<isbn>3-257-06605-8</isbn>	
+	</book>
+</books> 
+
+

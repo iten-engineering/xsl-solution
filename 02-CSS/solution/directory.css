@@ -1,0 +1,17 @@
+directory  { 
+	font-family:Arial,helvetica,sans-serif;
+	font-size:12pt;
+	color:black; 
+}
+
+person {
+	display:block; 
+}
+
+firstname {
+	color:red; 
+}
+
+lastname  { 
+	color:blue; 
+}

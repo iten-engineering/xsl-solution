@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="copy-of.xsl" ?>
+<test>
+	<titel class="header">Telefon</titel>
+	<telefon>
+		<name>Hans</name>
+		<nummer>069 - 11727349874</nummer>
+	</telefon>
+	<telefon>
+		<name>Sabine</name>
+		<nummer>040 - 116343432094</nummer>
+	</telefon>
+</test>

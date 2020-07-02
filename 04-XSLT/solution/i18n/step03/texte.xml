@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texte>
+	<text lang="de">
+		<titel>Personenverzeichnis</titel>
+		<vorname>Vorname</vorname>	
+		<nachname>Nachname</nachname>		
+	</text>
+	<text lang="en">
+		<titel>Directory of persons</titel>
+		<vorname>Firstname</vorname>	
+		<nachname>Lastname</nachname>		
+	</text>
+	<text lang="fr">
+		<titel>Liste des personnes</titel>
+		<vorname>Prenom</vorname>	
+		<nachname>Nom</nachname>		
+	</text>
+</texte>
+

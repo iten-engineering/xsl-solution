@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="key.xsl" ?>
+<doc>
+	<countries>
+		<country code="de">Germany</country>
+		<country code="fr">France</country>
+		<country code="it">Italy</country>
+		<country code="ch" default="true">
+			Switzerland
+		</country>
+	</countries>
+</doc>

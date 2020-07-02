@@ -1,0 +1,27 @@
+books  { 
+	font-family:Arial,helvetica,sans-serif;
+	font-size:12pt;
+	color:black; 
+}
+
+title { 
+	display:block; 
+	font-size:14pt; 
+	font-weight:bold; 
+}
+
+author { 
+	display:block; 
+	font-style: italic;
+	font-weight: bold;
+}
+
+publisher, year {
+	color: blue;
+}
+
+isbn {
+	display:block; 
+	color:red; 
+}
+

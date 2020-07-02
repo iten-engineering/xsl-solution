@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice nr="123">
+	<head>
+		<customer nr="789">
+			<name>
+				<firstname>Hans</firstname>
+				<lastname>Muster</lastname>
+			</name>
+			<address>
+				<street>Freiburgsrasse 20</street>
+				<postalcode>3000</postalcode>
+				<city>Bern</city>
+			</address>
+		</customer>
+		<distributor>
+			<company>sourcefactory GmbH</company>
+			<address>
+				<street>Fellenbergstrasse 2</street>
+				<postalcode>3053</postalcode>
+				<city>Münchenbuchsee</city>
+			</address>
+		</distributor>
+	</head>
+	<positions>
+		<position pos="3" price="600" currency="CHF">
+			<description>PC Intel III 600 Mhz</description>
+		</position>
+		<position pos="2" price="700" currency="CHF">
+			<description>21-Zoll Monitor</description>
+		</position>
+		<position pos="4" price="15" currency="CHF">
+			<description>Maus</description>
+		</position>
+		<position pos="1" price="45" currency="EUR">
+			<description>Tastatur</description>
+		</position>
+	</positions>
+</invoice>

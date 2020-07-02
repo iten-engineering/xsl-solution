@@ -1,0 +1,21 @@
+
+album  { 
+	display:block; 
+	font-family:Arial,helvetica,sans-serif;
+	font-size:12pt;
+	color:black; 
+}
+
+interpreter { 
+	font-size:14pt; 
+}
+
+title { 
+	font-size:14pt; 
+	font-weight:bold; 
+}
+
+song { 
+	display: list-item; 
+	color:blue; 
+}
